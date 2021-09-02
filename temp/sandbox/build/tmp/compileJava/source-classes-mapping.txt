@@ -1,2 +1,2 @@
-firstjava.java
- firstjava
+ru/test_qa/sandbox/firstjava.java
+ ru.test_qa.sandbox.firstjava
